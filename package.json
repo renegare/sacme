@@ -1,0 +1,25 @@
+{
+  "name": "sacme",
+  "version": "0.0.1",
+  "description": "simple letsencrypt lib and server api to generate tokens",
+  "main": "server.js",
+  "scripts": {
+    "test": "ava test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renegare/sacme.git"
+  },
+  "keywords": [
+    "letsencrypt",
+    "koa",
+    "api",
+    "https"
+  ],
+  "author": "Mudi <mudi@renegare.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renegare/sacme/issues"
+  },
+  "homepage": "https://github.com/renegare/sacme#readme"
+}
